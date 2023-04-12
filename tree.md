@@ -1,16 +1,3 @@
-# AD&D Churn Analysis & Modeling
-
-<p align="center">
-  <img src="assets/ADD-Logo.jpg" width=120/>
-</p>
-
->This report investigates the churn of the fictional telecom company **AD&D**.
-
----
-
-[Telecommunications Churn Analysis And Modeling Slides]()
-
-```
 .
 ├── assets
 │   ├── ADD-Logo.jpg
@@ -26,6 +13,7 @@
 │   └── raw
 │       ├── churn.all2
 │       └── churn.all2.tar.bz2
+├── LICENSE
 ├── notebooks
 │   ├── 1_ADD_Telecommunications_Churn_Analysis_And_Modeling.ipynb
 │   ├── 2_ADD_Initial_Data_Analysis.ipynb
@@ -38,6 +26,7 @@
 │   ├── 9_ADD_Logistic_Regression_Modeling.ipynb
 │   ├── Random_Forest_Model.ipynb
 │   └── XGBoost_Model.ipynb
-├── LICENSE
-└── README.md
-```
+├── README.md
+└── tree.md
+
+5 directories, 24 files
