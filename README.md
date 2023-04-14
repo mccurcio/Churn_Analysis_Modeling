@@ -8,18 +8,31 @@
 
 ---
 
-[Telecommunications Churn Analysis And Modeling Slides]()
+[AD&D Churn Analysis & Modeling Slides](https://github.com/mccurcio/Churn_Analysis_Modeling/blob/main/assets/AD%26D%20Churn%20Analysis.pdf)
 
 ```
 .
 ├── assets
+│   ├── act_length_histo.png
+│   ├── AD&D Churn Analysis.pdf
 │   ├── ADD-Logo.jpg
+│   ├── Churn_correlation.png
 │   ├── Churn_correlation.svg
 │   ├── churn_eda_profiling_report.html
+│   ├── Churn_piechart.png
 │   ├── Churn_piechart.svg
 │   ├── Churn_roc_curve.svg
 │   ├── config_default.yml
-│   └── pca_1_2_output.png
+│   ├── correlation.png
+│   ├── EDA_Pandas_Profiling.png
+│   ├── erdogant.pc.plot.annotated.png
+│   ├── erdogant.pc.plot.png
+│   ├── Int_plan_histo.png
+│   ├── Int_plan_histo.svg
+│   ├── pca_1_2_output.png
+│   ├── state_plot.png
+│   ├── state_plot.svg
+│   └── vm_plan_histo.png
 ├── data
 │   ├── processed
 │   │   └── mcc_clean_churn.csv
@@ -38,6 +51,7 @@
 │   ├── 9_ADD_Logistic_Regression_Modeling.ipynb
 │   ├── Random_Forest_Model.ipynb
 │   └── XGBoost_Model.ipynb
+├── .gitginore
 ├── LICENSE
 └── README.md
 ```
